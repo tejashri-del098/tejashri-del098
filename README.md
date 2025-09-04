@@ -8,7 +8,6 @@ Here’s a tailored, professional README file based on the background and achiev
 
 [![Email](https://img.shields.io/badge/Email-tejashrichoudhary2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejashrichoudhary2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejashri_Choudhary-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashri-choudhary-505a402a4)
-[![GitHub](https://img.shields.io/badge/GitHub-tejashri-del098-181717?style=flat&logo=github&logoColor=white)](https://github.com/tejashri-del098)
 
 Learning, and Computer Vision, with hands-on experience in developing validated AI models for real-world impact.
 
