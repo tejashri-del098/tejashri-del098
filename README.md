@@ -1,6 +1,3 @@
-Here’s a tailored, professional README file based on the background and achievements provided in your attached resume. It is written in a modern, recruiter-friendly format and highlights your key strengths, skills, and projects.
-
-***
 
 ## 👋 Hi, I'm Tejashri Choudhary
 
