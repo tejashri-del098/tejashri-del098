@@ -6,7 +6,10 @@ Here’s a tailored, professional README file based on the background and achiev
 
 **AI & Machine Learning Enthusiast | Generative AI Practitioner | Computer Vision Developer**
 
-[![Email](https://img.shields.io/badge/Email-tejashrichoudhary2@email.com-D14836?style=flat&logo=gmail&logoColor=whiteIn-Tejashri_Choudhary-0077B5?style=flat&logo=linkedin&logoColor-tejashri--del098-181717?style=flat&logo=github&logoColor=white Science (Artificial Intelligence) at VIT Bhopal University, passionate about building robust, ethical, and innovative AI solutions. My expertise includes Generative AI, Deep Learning, and Computer Vision, with hands-on experience in developing validated AI models for real-world impact.
+[![Email](https://img.shields.io/badge/Email-tejashrichoudhary2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejashrichoudhary2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejashri_Choudhary-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashri-choudhary-505a402a4)
+[![GitHub](https://img.shields.io/badge/GitHub-tejashri-del098-181717?style=flat&logo=github&logoColor=white)](https://github.com/tejashri-del098)
+Learning, and Computer Vision, with hands-on experience in developing validated AI models for real-world impact.
 
 - 🔍 Enthusiastic about Generative AI and fact-verification systems
 - 🌱 Learning new frameworks and techniques in NLP and Deep Learning
@@ -19,12 +22,22 @@ Here’s a tailored, professional README file based on the background and achiev
 ## 🛠️ Technical Skills
 
 **Programming & Data Analysis**  
-![Python](https://img.shields.io/badge/Python9A1?style=for-the-badge&logo=postgresql&logoColor=whitee/Scikitmg.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=whiterification using Retrieval-Augmented Generation (RAG)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 - Developed an AI-driven fact-verification system to reduce hallucinations in LLMs using Retrieval-Augmented Generation
 - Grounded responses from Google’s Gemma LLM in verified document evidence (PDFs/links)
 - Improved reliability of AI-generated answers for research, legal, and healthcare domains
 
 ### [OCT Disease Classification Model]()
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 - Built a CNN-based deep learning model to classify ocular diseases from fundus images
 - Utilized transfer learning for multi-class image classification to support medical diagnosis workflows
 
@@ -36,11 +49,6 @@ Here’s a tailored, professional README file based on the background and achiev
 BTech in Computer Science (Artificial Intelligence)  
 CGPA: 7.76  
 Sep 2023 – Present
-
-**St. Xavier International School**  
-Class XII — 78%  
-April 2022 – March 2023
-
 ***
 
 ## 💼 Experience
@@ -59,14 +67,15 @@ April 2022 – March 2023
 - Oracle Certified Foundations Associate: OCI AI (Mar 2025)
 
 ***
+## 📊 GitHub Stats
+
+![Tejashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejashri-del098&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejashri-del098&layout=compact&theme=radical)
+
 
 ## 📫 Let's Connect!
 
 Passionate about collaborating on AI, machine learning, or computer vision projects!  
 Open to new opportunities and eager to discuss innovative technology solutions.
 
-[
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejashri_Choudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white, ATS-friendly profile to both technical recruiters and the open-source community.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83411276/ba058f6d-9676-44de-8767-5ffa5f698326/ATS_Friendly_Technical_Resume__2_-2-1.pdf)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/83411276/b4d6495c-0ebc-4e44-9472-17d058e9dc05/README.md)
