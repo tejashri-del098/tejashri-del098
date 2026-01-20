@@ -44,7 +44,7 @@ Learning, and Computer Vision, with hands-on experience in developing validated 
 
 **VIT Bhopal University**  
 BTech in Computer Science (Artificial Intelligence)  
-CGPA: 7.76  
+CGPA: 8.28  
 Sep 2023 – Present
 ***
 
