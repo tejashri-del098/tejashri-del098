@@ -215,23 +215,6 @@ Imbalanced classification framed around customer impact, not headline accuracy.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tejashri-del098&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejashri-del098&layout=compact&langs_count=8&hide_border=true&title_color=4FC3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri-del098&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FFA116&currStreakLabel=4FC3F7&sideLabels=c9d1d9&dates=8b949e" alt="Streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashri-del098&bg_color=0d1117&color=c9d1d9&line=4FC3F7&point=FFA116&area=true&hide_border=true" alt="Contribution graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=tejashri-del098&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-</div>
-
----
-
 ## 🧮 Problem Solving
 
 <div align="center">
